@@ -5,6 +5,24 @@
 <h3 align="left">
     As a WordPress developer who focuses on building fast, responsive, and SEO-friendly websites that help businesses grow online.
 </h3>
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Illustrator&logo=adobeillustrator&label=&color=FF9A00&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Photoshop&logo=adobephotoshop&label=&color=31A8FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/static/v1?message=Adobe%20XD&logo=adobexd&label=&color=FF26BE&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=imran-webdev-run&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-webdev-run&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
+
 <hr></hr>
 <p align="left">
 
@@ -25,8 +43,10 @@ If you’re looking for someone who can handle your project from design to deplo
 </ul>
 
 ###
+<hr></hr>
 
 <div align="left">
+<h3>Core Competencies</h3>
   <ul dir="auto">
     <li>Figma to WordPress</li>
     <li>Custom WordPress Theme Development (From scratch)</li>
@@ -39,20 +59,7 @@ If you’re looking for someone who can handle your project from design to deplo
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=PHP&logo=php&label=&color=777BB4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Figma&logo=figma&label=&color=F24E1E&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Illustrator&logo=adobeillustrator&label=&color=FF9A00&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Photoshop&logo=adobephotoshop&label=&color=31A8FF&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Adobe%20XD&logo=adobexd&label=&color=FF26BE&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-</div>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-webdev-run&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imran-webdev-run&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
 
 <br clear="both">
+
